@@ -31,8 +31,8 @@ graph TB
     I --> L[Cloud Storage]
 
     style B fill:#5A0FC8
-    style H fill:#61DAFB
-    style I fill:#2466ff
+    style H fill:#2466ff
+    style I fill:#ff0000
 ```
 
 ## 📱 Progressive Web App Architecture Diagram
