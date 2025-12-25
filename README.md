@@ -37,7 +37,7 @@ graph TB
 
 ## 📱 Progressive Web App Architecture Diagram
 
-![PWA](.\public\images\PWA.png)
+![PWA](public\images\PWA.png)
 
 ## ✨ Features
 
